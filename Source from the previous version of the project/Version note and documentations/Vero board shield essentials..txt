@@ -1,0 +1,2 @@
+Updates in version 9: 
+1. Mobile app has been updated to keep track with the line follower. 
